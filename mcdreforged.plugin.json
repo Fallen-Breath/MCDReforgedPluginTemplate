@@ -12,6 +12,7 @@
     "entrypoint": "my_plugin.entry",
 
     "resources": [
-        "lang"
+        "lang",
+        "LICENSE"
     ]
 }
